@@ -6,6 +6,16 @@ Includes:
 - `Launch-Pkwy-Cams.bat` → one-click Windows launcher
 - `Cycle-Pkwy-Cams.ps1` → PowerShell script that cycles each camera automatically
 
+Cycles through the southbound parkway cameras. 
+1) Download each file
+2) Install VLC
+3) Double-click the .bat file. | Press N (next) or P (previous)
+
+You can get any camera list using URLScan.io; DOM page
+
+ie) https://www.njta.com/travel-resources/camera-list
+https://urlscan.io/result/0198fbb0-67c5-718f-99e6-6a78654f4c73/dom/
+
 ---
 
 ## 🎥 Camera Streams
