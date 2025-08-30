@@ -7,8 +7,8 @@ Includes:
 - `Cycle-Pkwy-Cams.ps1` → PowerShell script that cycles each camera automatically
 
 Cycles through the southbound parkway cameras. 
-1) Download each file
-2) Install VLC
+1) Install VLC
+2) Download each file
 3) Double-click the .bat file. | Press N (next) or P (previous)
 
 You can get any camera list using URLScan.io; DOM page
