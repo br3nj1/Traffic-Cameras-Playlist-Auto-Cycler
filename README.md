@@ -13,8 +13,10 @@ Cycles through the southbound parkway cameras.
 
 You can get any camera list using URLScan.io; DOM page
 
-ie) https://www.njta.com/travel-resources/camera-list
-https://urlscan.io/result/0198fbb0-67c5-718f-99e6-6a78654f4c73/dom/
+Example:
+Parkway Traffic Cameras: https://www.njta.com/travel-resources/camera-list 
+Scan link at: https://www.urlsca.io
+Collect links: https://urlscan.io/result/0198fbb0-67c5-718f-99e6-6a78654f4c73/dom/
 
 ---
 
